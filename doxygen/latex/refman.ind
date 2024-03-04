@@ -1,0 +1,24 @@
+\begin{theindex}
+
+  \item {evaluate}
+    \subitem {evaluate.c}, \hyperpage{3}
+    \subitem {evaluate.h}, \hyperpage{3}
+  \item {evaluate.c}
+    \subitem {evaluate}, \hyperpage{3}
+  \item {evaluate.h}
+    \subitem {evaluate}, \hyperpage{3}
+
+  \indexspace
+
+  \item {main}
+    \subitem {main.c}, \hyperpage{4}
+  \item {main.c}
+    \subitem {main}, \hyperpage{4}
+
+  \indexspace
+
+  \item {src/evaluate.c}, \hyperpage{3}
+  \item {src/evaluate.h}, \hyperpage{3, 4}
+  \item {src/main.c}, \hyperpage{4}
+
+\end{theindex}

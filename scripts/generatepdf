@@ -1,0 +1,6 @@
+doxygen doxygen/Doxyfile
+doxygen -w latex doxygen/headerFile doxygen/footerFile doxygen/styleSheetFile doxygen/Doxyfile
+cd doxygen/latex
+make
+cd ../..
+mv doxygen/latex/refman.pdf docs/refman.pdf
